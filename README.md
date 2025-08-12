@@ -9,3 +9,14 @@
 <img width="1024" height="610" alt="Screenshot 2025-08-12 164644" src="https://github.com/user-attachments/assets/b61c17fc-ea0d-4155-9dcf-bc81e5cc0c4f" />
 <img width="779" height="818" alt="Screenshot 2025-08-12 164813" src="https://github.com/user-attachments/assets/1236609d-a664-42c7-af1e-0ecd56cb38ca" />
 <img width="824" height="595" alt="Screenshot 2025-08-12 164823" src="https://github.com/user-attachments/assets/5c5e7db1-af54-48db-8626-ae86c041a71c" />
+# LINK
+
+https://www.figma.com/proto/kTAUyEBPXkVuCH8Gd3VgzX/gym-web?node-id=1-2&t=RUoHlGORqj5sNXcw-1
+
+
+https://www.figma.com/proto/c9kTA65rYUWnxyWEjnLuNT/project1?node-id=0-1&t=kX9inDVQ7tLd2MGG-1
+
+https://www.figma.com/proto/yPFrWuCbfb8Pu6cylaA4nZ/Eagle-TV?node-id=0-1&t=EgPnRvLFy43zTB8E-1
+
+
+https://www.figma.com/proto/OFAoNaMXOaRfr8Ij3UqRid/shop?node-id=0-1&t=9FImYfkM5Pd4UNW8-1
